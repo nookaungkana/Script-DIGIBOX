@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "voltaic-mantra-436504-n7",
+  "private_key_id": "76192e4a516b9ad2e1a6887f774180476a948775",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCpVa8Pupdp0k/y\nOdGwH+dNuNCdsuCxe+DhHBpZAFM/qVVqIOgFYQ4Qd7SKgjJJ1oqVi3B17W/8DTNR\niw2Q2Zw0o2KXgrI1hr7ChgMXTdu4Ads4qD8IoeA3OunAiw1MBgi6aL05q5rXdnnW\nNKwBHSo/7ViSaat3vGjPgAMbOjPUPCsVS1pgcGGq3Fuz1ccOSmXKMZ98Vt271V5+\nFmwHQsnKGLidLU4CfTfLvgmMOQE7k+GYB+Li3XkuNKME3AS7lfXbFc4PC/iAQ7rV\nnpH/GmfyDArEsYjNXcFJ3De8Sq3QgrZehmY8Xi3BdLAD6jT+KJ2wQEHbezWBYvjD\n/2fNG2cnAgMBAAECggEAAMSsFVIvZazX7VgTJM1q6ztaFvJnepFT+obPcnVB626v\n6ISwXiCL7nSHPn72Dh0Ju+v0sqmaccui3qKBiUAI1A75tN5EQ2HnyPzP/scSUXS7\nXeJwMXB/5+rogesfladhWsHRj0rBWmuQhJxF5itlCa01/allEcH/vRFDnQKtQYU9\nI1h5tv06wVbfTREgvTvN3lSeFyQn4eKHc015azkprSrXcloHoKu8qFLOWgg2TaWV\nVXXMpFveo1mbJJUPDbsaP2QDzfmzhZSMgsXEjoi50JVtJ43+3PY2xUsS1z0RDc+y\nCSoyv8jynIi4nO1ijaEywUZvPwSuwV4IWDW8Vy72IQKBgQDZqELokI3gdKmJigR6\nhzOlJRdccVnIwb8dKKahc9S93I7QzqrXogcFg/qYGdfC8+iFe11OHq1VBK0lCZYl\nY+0/ce4wurpHqf22WA0QhI50TE7Mj2EFKcgrDlk/tfTcmKwRF0c/0NOobb72u8Ik\nT4JeSOMRJaG85bu4VqRTqnb7RQKBgQDHKjVza8VzhSfwEDFSh8Te81ImjRKWFwGX\nANZ9D3wyGd0t9EUQLVmASoVx34bWglBmHo+D+/+kQpMfHGQIkFmFMmZMZ6+vKN4L\n9nDKsIumwMvRdAmNuHf4PDg8D5lL3sxyBsIYFbQUsmtD6pkDwTsndmlehtfxrVe3\nCNaWNsJJewKBgQC82K7k1bcjjlUizqtAHFqE6P+x5289Lk1BYWniH3vwF5OaPBYi\n7aQl9vLQUWvQ7ItMdVLpWtiNMXeA8SZi3qaUK6e8g+boEufc89yx/jETWrnr5mMJ\ndc0E/ngVPSxs0dJJKedZyTg7pKzRquqxUoMMhzTsRbhlCvaq5BHDvd1p+QKBgDtg\n3yy5PdYSJfURrtLPPafG3YA24Qq0cznk+w2wFzQMt/+iaxDGpH92OFDZ9qZvla7M\nf7c242HCo4BMA5r2BmqKuyseYqeTRJhGchxMBGbD5kBdGxgQnlv5AD8P24FePI/m\naemqVtUw2IAYKmSPMKa0S/ftteYM6zDbxrZkPwqPAoGAKuaQ+tuXlOK51GuWsweK\nFmkUD3mk59bLLkttz3eOidU0meQqoMCrZF2DE9VrANAeTgl9MBHLjoSshbjpPbJ9\ndOrpJHwvmQl6dD+no0YVcpGC5BWja9Otelzi6iJ9BSf+ZDBxJ7oQdw1PUm3Ld36G\nBZyf6J0bA95WXECQlBhuPGI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "account-digiboxsheet@voltaic-mantra-436504-n7.iam.gserviceaccount.com",
+  "client_id": "103050079769460823205",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/account-digiboxsheet%40voltaic-mantra-436504-n7.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
